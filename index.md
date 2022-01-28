@@ -4,6 +4,14 @@ From day one, the MEGA65 was designed to be the spiritual successor of the legen
 But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a chameleon, that can turn itself into
 any other machine you can imagine. All you need to peform this feat is a "alternative" MEGA65 core.
 
+## How do I install an alternative MEGA65 core?
+
+1. Copy the .cor file on an SD card and insert it into the MEGA65
+2. Make sure your MEGA65 is turned off
+3. Press and hold the <kbd>NO SCROLL<kbd> key in the most top row at position 5
+4. Turn on your MEGA65
+5. 
+
 ![Test](https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg)
 
 You can use the [editor on GitHub](https://github.com/sy2002/m65cores/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
