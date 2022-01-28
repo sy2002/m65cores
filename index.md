@@ -7,7 +7,7 @@ any other machine you can imagine. All you need to peform this feat is a "altern
 Please note: An alternative MEGA65 core is **not** an emulation of a certain hardware. Instead, it is a rebuild of the actual hardware itself.
 Admittedly in most cases not a 100% exact rebuild. But still in general much better than any software emulator.
 
-<img src="https://raw.githubusercontent.com/sy2002/m65cores/gh-pages/doc/retro.jpg" width="640">
+<img src="https://raw.githubusercontent.com/sy2002/m65cores/gh-pages/doc/retro.png">
 
 ## What alternative MEGA65 cores are available?
 
