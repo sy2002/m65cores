@@ -6,11 +6,13 @@ any other machine you can imagine. All you need to peform this feat is a "altern
 
 ## How do I install an alternative MEGA65 core?
 
-1. Copy the .cor file on an SD card and insert it into the MEGA65
+1. Copy the `.cor` file on an SD card and insert it into the MEGA65
 2. Make sure your MEGA65 is turned off
-3. Press and hold the <kbd>NO SCROLL<kbd> key in the most top row at position 5
+3. Press and hold the <kbd>No Scroll</kbd> key in the top row at position 5
 4. Turn on your MEGA65
-5. 
+5. Press <kbd>Ctrl</kbd> + <kbd>1</kbd> (or another number) to select the slot where you'd like to install the alternate core.
+   You do not need to worry: You can change the slot at a later stage and you cannot overwrite your factory MEGA65 core and brick your machine.
+6. Select the `.cor` file on your SD card
 
 ![Test](https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg)
 
