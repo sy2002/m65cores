@@ -1,6 +1,6 @@
 ## What are "alternative" MEGA65 cores?
 
-From day one, the MEGA65 was designed to be the best spiritual successor of the legendary Commodore 65 on the planet.
+From day one, the MEGA65 was designed to be the spiritual successor of the legendary Commodore 65 on the planet.
 But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a chameleon, that can turn itself into
 any other machine you can imagine. All you need to peform this feat is a "alternative" MEGA65 core.
 
