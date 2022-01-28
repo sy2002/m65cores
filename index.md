@@ -8,18 +8,15 @@ any other machine you can imagine. All you need to peform this feat is a "altern
 
 ## What alternative MEGA65 cores are available?
 
-|                             | Alternative Core            | Status           | MEGA65 File Host Link | Project page
-|:----------------------------|:----------------------------|:-----------------|:----------------------|:--------------
-| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200"> | Game Boy and Game Boy Color | Fully functional | [Click here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
+|                             |Alternative Core             |Status            |HDMI |VGA |3.5mm Audio  |MEGA65 File Host Link |Project page
+|:----------------------------|:----------------------------|:-----------------|:----|:---|:------------|:---------------------|:--------------
+| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200"> | Game Boy and Game Boy Color | Fully functional | yes | yes | yes | [Click here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
 
-### Fully functional
+## Can I add a core to this list?
 
-* Game Boy and Game Boy Color
-* ZX Spectrum
-
-### Not yet functioning, work in progress
-
-* Commodore 64
+Please message me on Discord (`sy2002#5425`), write me an email to `code` at `sy2002` dot `de`,
+create an [Issue](https://github.com/sy2002/m65cores/issues) or create a [Pull Request](https://github.com/sy2002/m65cores/pulls),
+if you think this list is incomplete and/or want me to add your project (work-in-progress projects are welcome!).
 
 ## How do I install an alternative MEGA65 core?
 
@@ -31,38 +28,10 @@ any other machine you can imagine. All you need to peform this feat is a "altern
    You do not need to worry: You can change the slot at a later stage and you cannot overwrite your factory MEGA65 core and brick your machine.
 6. Select the `.cor` file on your SD card
 
-You can use the [editor on GitHub](https://github.com/sy2002/m65cores/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Download the MEGA65 starter guide](https://files.mega65.org/news/MEGA65-Starter-Guide.pdf) and read the section `Bitstream Utility` to learn more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How do I run an alternative MEGA65 core?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sy2002/m65cores/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Turn off your MEGA65
+2. Press and hold the <kbd>NO SCROLL</kbd> key in the top row at position 5
+3. Choose the core that you would like to run
