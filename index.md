@@ -1,6 +1,6 @@
 ## What are "alternative" MEGA65 cores?
 
-From day one, the MEGA65 was designed to be the spiritual successor of the legendary Commodore 65 on the planet.
+From day one, the MEGA65 was designed to be the spiritual successor of the legendary Commodore 65.
 But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a **chameleon**, that can turn itself into
 any other machine you can imagine. All you need to peform this feat is a "alternative" MEGA65 core.
 
@@ -43,7 +43,7 @@ if you think this list is incomplete and/or want me to add your project (work-in
 
 ## How can I create an alternative MEGA65 core?
 
-The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the world's best retro computing FPGA project. To see how many cores
+The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the world's largest retro computing FPGA project. To see how many cores
 they have, just go to their [Wiki pages](https://github.com/MiSTer-devel/Main_MiSTer/wiki), scroll down and look under the headline **FPGA Cores**
 on the right side. It is stunning! :-)
 
