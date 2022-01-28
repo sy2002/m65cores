@@ -4,13 +4,16 @@ From day one, the MEGA65 was designed to be the spiritual successor of the legen
 But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a **chameleon**, that can turn itself into
 any other machine you can imagine. All you need to peform this feat is a "alternative" MEGA65 core.
 
+Please note: An alternative MEGA65 core is **not** an emulation of a certain hardware. Instead, it is a rebuild of the actual hardware itself.
+Admittedly in most cases not a 100% exact rebuild. But still in general much better than any software emulator.
+
 <img src="https://raw.githubusercontent.com/sy2002/m65cores/gh-pages/doc/retro.jpg" width="640">
 
 ## What alternative MEGA65 cores are available?
 
 |                             |Alternative Core             |Status            |HDMI |VGA |3.5mm Audio  |MEGA65 File Host Link |Project page
 |:----------------------------|:----------------------------|:-----------------|:----|:---|:------------|:---------------------|:--------------
-| <img src="https://raw.githubusercontent.com/MJoergen/C64MEGA65/master/doc/c64.jpg" width="200">                       | **Commodore 64**                | In Development   | yes | yes | yes | n/a | [Download here](https://github.com/MJoergen/C64MEGA65)
+| <img src="https://raw.githubusercontent.com/MJoergen/C64MEGA65/master/doc/c64.jpg" width="200">                       | **Commodore 64**                | In Development   | yes | yes | yes | n/a | [Click here](https://github.com/MJoergen/C64MEGA65)
 | <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200">                 | **Game Boy and Game Boy Color** | Fully functional | yes | yes | yes | [Download here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
 | <img src="https://raw.githubusercontent.com/sy2002/zxuno4mega65/master/doc/wiki/assets/ZXSpectrum48k.jpg" width="200">| **ZX Spectrum**                 | Fully functional | no  | yes | yes | [Download here](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) | [Click here](https://github.com/sy2002/zxuno4mega65)
 
@@ -37,3 +40,14 @@ if you think this list is incomplete and/or want me to add your project (work-in
 1. Turn off your MEGA65
 2. Press and hold the <kbd>NO SCROLL</kbd> key in the top row at position 5
 3. Choose the core that you would like to run
+
+## How can I create an alternative MEGA65 core?
+
+The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the worlds best retro computing FPGA project. To see how many cores
+they have, just go to their [Wiki pages](https://github.com/MiSTer-devel/Main_MiSTer/wiki), scroll down and look under the headline **FPGA Cores**
+on the right side. It is stunning! :-)
+
+So more than enough work for all you MEGA65 enthusiasts out there.
+
+For making your life easier, the [MiSTer2MEGA65 Framework](https://github.com/sy2002/MiSTer2MEGA65) will be there to simplify porting MiSTer cores to the MEGA65.
+Beware! Currently, [MiSTer2MEGA65](https://github.com/sy2002/MiSTer2MEGA65) is heavily work in progress. Contributors welcome!
