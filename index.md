@@ -47,7 +47,9 @@ The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the wo
 they have, just go to their [Wiki pages](https://github.com/MiSTer-devel/Main_MiSTer/wiki), scroll down and look under the headline **FPGA Cores**
 on the right side. It is stunning! :-)
 
-So more than enough work for all you MEGA65 enthusiasts out there.
+So more than enough work for all you MEGA65 enthusiasts out there: Porting MiSTer cores is the logical first step and a great start when it comes
+to building a decent library of alternative cores for the MEGA65. The Commodore 64 core and the Game Boy core from our list above are two great
+examples of this.
 
 For making your life easier, the [MiSTer2MEGA65 Framework](https://github.com/sy2002/MiSTer2MEGA65) will be there to simplify porting MiSTer cores to the MEGA65.
 Beware! Currently, [MiSTer2MEGA65](https://github.com/sy2002/MiSTer2MEGA65) is heavily work in progress. Contributors welcome!
