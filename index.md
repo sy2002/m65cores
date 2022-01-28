@@ -10,7 +10,9 @@ any other machine you can imagine. All you need to peform this feat is a "altern
 
 |                             |Alternative Core             |Status            |HDMI |VGA |3.5mm Audio  |MEGA65 File Host Link |Project page
 |:----------------------------|:----------------------------|:-----------------|:----|:---|:------------|:---------------------|:--------------
-| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200"> | Game Boy and Game Boy Color | Fully functional | yes | yes | yes | [Click here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
+| <img src="https://raw.githubusercontent.com/MJoergen/C64MEGA65/master/doc/c64.jpg" width="200">                       | **Commodore 64**                | In Development   | yes | yes | yes | n/a | [Download here](https://github.com/MJoergen/C64MEGA65)
+| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200">                 | **Game Boy and Game Boy Color** | Fully functional | yes | yes | yes | [Download here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
+| <img src="https://raw.githubusercontent.com/sy2002/zxuno4mega65/master/doc/wiki/assets/ZXSpectrum48k.jpg" width="200">| **ZX Spectrum**                 | Fully functional | no  | yes | yes | [Download here](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) | [Click here](https://github.com/sy2002/zxuno4mega65)
 
 ## Can I add a core to this list?
 
