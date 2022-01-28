@@ -17,12 +17,6 @@ Admittedly in most cases not a 100% exact rebuild. But still in general much bet
 | <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200">                 | **Game Boy and Game Boy Color** | Fully functional | yes | yes | yes | [Download here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
 | <img src="https://raw.githubusercontent.com/sy2002/zxuno4mega65/master/doc/wiki/assets/ZXSpectrum48k.jpg" width="200">| **ZX Spectrum**                 | Fully functional | no  | yes | yes | [Download here](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) | [Click here](https://github.com/sy2002/zxuno4mega65)
 
-## Can I add a core to this list?
-
-Please message me on Discord (`sy2002#5425`), write me an email to `code` at `sy2002` dot `de`,
-create an [Issue](https://github.com/sy2002/m65cores/issues) or create a [Pull Request](https://github.com/sy2002/m65cores/pulls),
-if you think this list is incomplete and/or want me to add your project (work-in-progress projects are welcome!).
-
 ## How do I install an alternative MEGA65 core?
 
 1. Copy the `.cor` file on an SD card and insert it into the MEGA65
@@ -40,6 +34,12 @@ if you think this list is incomplete and/or want me to add your project (work-in
 1. Turn off your MEGA65
 2. Press and hold the <kbd>NO SCROLL</kbd> key in the top row at position 5
 3. Choose the core that you would like to run
+
+## Can I add a core to this list?
+
+Please message me on Discord (`sy2002#5425`), write me an email to `code` at `sy2002` dot `de`,
+create an [Issue](https://github.com/sy2002/m65cores/issues) or create a [Pull Request](https://github.com/sy2002/m65cores/pulls),
+if you think this list is incomplete and/or want me to add your project (work-in-progress projects are welcome!).
 
 ## How can I create an alternative MEGA65 core?
 
