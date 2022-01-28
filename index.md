@@ -43,7 +43,7 @@ if you think this list is incomplete and/or want me to add your project (work-in
 
 ## How can I create an alternative MEGA65 core?
 
-The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the worlds best retro computing FPGA project. To see how many cores
+The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the world's best retro computing FPGA project. To see how many cores
 they have, just go to their [Wiki pages](https://github.com/MiSTer-devel/Main_MiSTer/wiki), scroll down and look under the headline **FPGA Cores**
 on the right side. It is stunning! :-)
 
