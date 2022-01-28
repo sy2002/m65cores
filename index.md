@@ -1,20 +1,35 @@
 ## What are "alternative" MEGA65 cores?
 
 From day one, the MEGA65 was designed to be the spiritual successor of the legendary Commodore 65 on the planet.
-But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a chameleon, that can turn itself into
+But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a **chameleon**, that can turn itself into
 any other machine you can imagine. All you need to peform this feat is a "alternative" MEGA65 core.
+
+<img src="https://raw.githubusercontent.com/sy2002/m65cores/gh-pages/doc/retro.jpg" width="640">
+
+## What alternative MEGA65 cores are available?
+
+|                             | Alternative Core            | Status           | MEGA65 File Host Link | Project page
+|:----------------------------|:----------------------------|:-----------------|:----------------------|:--------------
+| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200"> | Game Boy and Game Boy Color | Fully functional | [Click here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
+
+### Fully functional
+
+* Game Boy and Game Boy Color
+* ZX Spectrum
+
+### Not yet functioning, work in progress
+
+* Commodore 64
 
 ## How do I install an alternative MEGA65 core?
 
 1. Copy the `.cor` file on an SD card and insert it into the MEGA65
 2. Make sure your MEGA65 is turned off
-3. Press and hold the <kbd>No Scroll</kbd> key in the top row at position 5
+3. Press and hold the <kbd>NO SCROLL</kbd> key in the top row at position 5
 4. Turn on your MEGA65
-5. Press <kbd>Ctrl</kbd> + <kbd>1</kbd> (or another number) to select the slot where you'd like to install the alternate core.
+5. Press <kbd>CTRL</kbd> + <kbd>1</kbd> (or another number) to select the slot where you'd like to install the alternate core.
    You do not need to worry: You can change the slot at a later stage and you cannot overwrite your factory MEGA65 core and brick your machine.
 6. Select the `.cor` file on your SD card
-
-![Test](https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg)
 
 You can use the [editor on GitHub](https://github.com/sy2002/m65cores/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
