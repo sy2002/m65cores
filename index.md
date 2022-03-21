@@ -10,7 +10,8 @@ Admittedly in most cases not a 100% exact rebuild. But still in general much bet
 <img src="https://raw.githubusercontent.com/sy2002/m65cores/gh-pages/doc/retro.png">
 
 Oliver Graf made a [great YouTube explainer video](https://youtu.be/9Ib7z64z9N4) about recreating retro systems using FPGAs,
-about the awesome MiSTer project and about the difference between MiSTer and the equally awesome MEGA65.
+about the awesome MiSTer project and about the difference between MiSTer and the equally awesome MEGA65. Watch the video
+before reading on here, as it will provide you with valuable context.
 
 ## What alternative MEGA65 cores are available?
 
