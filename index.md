@@ -2,7 +2,7 @@
 
 From day one, the MEGA65 was designed to be the spiritual successor of the legendary Commodore 65.
 But the MEGA65 is much more than "just" that. It is also a MEGA versatile FPGA-based machine, a **chameleon**, that can turn itself into
-any other machine you can imagine. All you need to peform this feat is a "alternative" MEGA65 core.
+any other machine you can imagine. All you need to perform this feat is an "alternative" MEGA65 core.
 
 Please note: An alternative MEGA65 core is **not** an emulation of a certain hardware. Instead, it is a rebuild of the actual hardware itself.
 Admittedly in most cases not a 100% exact rebuild. But still in general much better than any software emulator.
