@@ -9,7 +9,7 @@ Admittedly in most cases not a 100% exact rebuild. But still in general much bet
 
 <img src="https://raw.githubusercontent.com/sy2002/m65cores/gh-pages/doc/retro.png">
 
-Oliver Graf made a [great YouTube explainer video](https://youtu.be/9Ib7z64z9N4) about recreating retro systems using FPGAs,
+Oliver Graf aka lydon made a [great YouTube explainer video](https://youtu.be/9Ib7z64z9N4) about recreating retro systems using FPGAs,
 about the awesome MiSTer project and about the difference between MiSTer and the equally awesome MEGA65. Watch the video
 before reading on here, as it will provide you with valuable context.
 
@@ -22,6 +22,9 @@ before reading on here, as it will provide you with valuable context.
 | <img src="https://raw.githubusercontent.com/sy2002/zxuno4mega65/master/doc/wiki/assets/ZXSpectrum48k.jpg" width="200">| **ZX Spectrum**                 | Fully functional | no  | yes | yes | [Download here](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) | [Click here](https://github.com/sy2002/zxuno4mega65)
 
 ## How do I install an alternative MEGA65 core?
+
+Watch this [great video tutorial on YouTube](https://youtu.be/6ZcUFY77o3A) from Oliver Graf.
+If you prefer reading over videos, here is how you install an alternative MEGA65 core:
 
 1. Copy the `.cor` file on an SD card and insert it into the MEGA65
 2. Make sure your MEGA65 is turned off
