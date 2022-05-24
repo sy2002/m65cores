@@ -15,11 +15,11 @@ before reading on here, as it will provide you with valuable context.
 
 ## What alternative MEGA65 cores are available?
 
-|                             |Alternative Core             |Status            |HDMI |VGA |3.5mm Audio  |MEGA65 File Host Link |Project page
-|:----------------------------|:----------------------------|:-----------------|:----|:---|:------------|:---------------------|:--------------
-| <img src="https://raw.githubusercontent.com/MJoergen/C64MEGA65/master/doc/c64.jpg" width="200">                       | **Commodore 64**                | Fully functional   | yes | yes | yes | [Download here](https://files.mega65.org?id=896a012f-59e4-456c-b91f-7e989b958241) | [Click here](https://github.com/MJoergen/C64MEGA65)
-| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200">                 | **Game Boy and Game Boy Color** | Fully functional | yes | yes | yes | [Download here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/)
-| <img src="https://raw.githubusercontent.com/sy2002/zxuno4mega65/master/doc/wiki/assets/ZXSpectrum48k.jpg" width="200">| **ZX Spectrum**                 | Fully functional | no  | yes | yes | [Download here](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) | [Click here](https://github.com/sy2002/zxuno4mega65)
+|                             |Alternative Core             |Status            |HDMI |MEGA65 File Host Link |Project page|Report Issue
+|:----------------------------|:----------------------------|:-----------------|:----|:---------------------|:-----------|:------------
+| <img src="https://raw.githubusercontent.com/MJoergen/C64MEGA65/master/doc/c64.jpg" width="200">                       | **Commodore 64**                | Fully functional   | yes | [Download here](https://files.mega65.org?id=896a012f-59e4-456c-b91f-7e989b958241) | [Click here](https://github.com/MJoergen/C64MEGA65) | [Issues](https://github.com/MJoergen/C64MEGA65/issues)
+| <img src="https://raw.githubusercontent.com/sy2002/gbc4mega65/master/doc/gb-and-gbc.jpg" width="200">                 | **Game Boy and Game Boy Color** | Fully functional | yes | [Download here](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) | [Click here](https://github.com/sy2002/gbc4mega65/) | [Issues](https://github.com/sy2002/gbc4mega65/issues)
+| <img src="https://raw.githubusercontent.com/sy2002/zxuno4mega65/master/doc/wiki/assets/ZXSpectrum48k.jpg" width="200">| **ZX Spectrum**                 | Fully functional | no  | [Download here](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) | [Click here](https://github.com/sy2002/zxuno4mega65) | [Issues](https://github.com/sy2002/zxuno4mega65/issues)
 
 ## How do I install an alternative MEGA65 core?
 
