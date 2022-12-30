@@ -51,9 +51,8 @@ if you think this list is incomplete and/or want me to add your project (work-in
 
 ## How can I create an alternative MEGA65 core?
 
-The [MiSTer Project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) is the world's largest retro computing FPGA project. To see how many cores
-they have, just go to their [Wiki pages](https://github.com/MiSTer-devel/Main_MiSTer/wiki), scroll down and look under the headline **FPGA Cores**
-on the right side. It is stunning! :-)
+The [MiSTer Project](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) is the world's largest retro computing FPGA project. To see how many cores
+they have, just go to [MiSTer's list of cores](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Cores). It is stunning! :-)
 
 So more than enough work for all you MEGA65 enthusiasts out there: Porting MiSTer cores is the logical first step and a great start when it comes
 to building a decent library of alternative cores for the MEGA65. The Commodore 64 core and the Game Boy core from our list above are two great
