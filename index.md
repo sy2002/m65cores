@@ -58,5 +58,7 @@ So more than enough work for all you MEGA65 enthusiasts out there: Porting MiSTe
 to building a decent library of alternative cores for the MEGA65. The Commodore 64 core and the Game Boy core from our list above are two great
 examples of this.
 
-For making your life easier, the [MiSTer2MEGA65 Framework](https://github.com/sy2002/MiSTer2MEGA65) will be there to simplify porting MiSTer cores to the MEGA65.
-Beware! Currently, [MiSTer2MEGA65](https://github.com/sy2002/MiSTer2MEGA65) is heavily work in progress. Contributors welcome!
+For making your life easier, the [MiSTer2MEGA65 Framework](https://github.com/sy2002/MiSTer2MEGA65) is here to simplify porting MiSTer cores to the MEGA65.
+The [MiSTer2MEGA65 Wiki](https://github.com/sy2002/MiSTer2MEGA65/wiki) offers a tutorial and all the information you need to successfully contribute
+to MEGA65's growing library of cores. Last but not least there is the friendly MEGA65 community on Discord. If you are new to porting cores or
+to FPGA development in general, don't hesitate to join our [#learn-fpga-dev channel on Discord](https://discord.com/channels/719326990221574164/1057791653517209601).
