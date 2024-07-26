@@ -1,6 +1,8 @@
 ## THIS WEBSITE HAS MOVED
 
-Please head to https://cores.mega65.org for the most recent version of this website.
+### Please head to https://cores.mega65.org for the most recent version of this website.
+
+<br><br><br><br><br>
 
 ## What are "alternative" MEGA65 cores?
 
