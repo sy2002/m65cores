@@ -1,3 +1,7 @@
+## THIS WEBSITE HAS MOVED
+
+Please head to https://cores.mega65.org for the most recent version of this website.
+
 ## What are "alternative" MEGA65 cores?
 
 From day one, the MEGA65 was designed to be the spiritual successor of the legendary Commodore 65!
